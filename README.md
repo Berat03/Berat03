@@ -1,11 +1,11 @@
 ### About Me
 
 Interests:
-  - Web Dec
+  - Web Dev
   - DevOps
   - Data Science
   - Data Engineering
-  - IoT
+  - Internet of Things (Iot)
 
 Technical:
   - Languages: Python, R, Go, Javascript
