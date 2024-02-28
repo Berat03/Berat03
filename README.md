@@ -1,8 +1,8 @@
 ### About Me
 
 Currently working on:
-  - Learning: React, Golang
-  - Exploring machine learning methods to use 3D point cloud data, primarily dealing with issues caused by light reflections.
+  - Building a full-stack website for DUSA (Durham University Speleological Society) with React.JS and Golang
+  - Exploring machine learning methods for efficient 3D indoor modelling, dealing with reflections and dust.
 
 
 
