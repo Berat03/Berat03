@@ -1,8 +1,13 @@
-### About Me
+### Hello World 👋
 
-Currently working on:
-  - Building a full-stack website for DUSA (Durham University Speleological Society) with React.JS and Golang
-  - Exploring machine learning methods for efficient 3D indoor modelling, dealing with reflections and dust.
+#### Final year student in MSci Computer Science & Mathematics (AI, networking and statistics).
+
+
+- I use: `Python`, `TypeScript`,`React`,`Node`, `AWS`, `C`.
+- Currently learning: `Go`, `Java`
+
+Find me at https://www.linkedin.com/in/beratbulbul/
+
 
 
 
