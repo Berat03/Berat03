@@ -5,6 +5,9 @@
 - I use: `Python`, `TypeScript`,`React`,`Node`, `AWS`, `C`.
 - Currently learning: `Go`, `Java`.
 
+My website: www.beratbulbul.com
+
+
 
 
 
