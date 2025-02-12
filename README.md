@@ -1,12 +1,10 @@
-### Hello World 👋
+```console
+Berat03@github:~$ whoami
+>>> Hi, my name is Berat.
+>>> I am a Final year MSci Computer Science and Mathematics student at Durham University.
 
-#### Final year student in MSci Computer Science & Mathematics (AI and Lachine Learning, statistical modelling, quantum networking and statistics).
-- I use: `Python`, `TypeScript`,`React`,`Node`, `AWS`, `C`.
-- Currently learning: `Go`, `Java`.
+Berat03@github:~$ ./connect
+>>> [LinkedIn](https://www.linkedin.com/in/berat03)
+>>> [GitHub](https://github.com/Berat03)
 
-
-
-
-
-
-
+Berat03@github:~$ _
